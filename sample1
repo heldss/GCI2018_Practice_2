@@ -1,7 +1,7 @@
-
-name=input("What is your name?")
-print("Hello" + name + ",please to meet you!")
-print("Did you know that your name backwards will look like" + name[::-1])
+#printing GCI is great
 for x in range(10):
     print("GCI is great")
-
+#inputing username and reversing it
+name=input("What is your name?")
+print("Hello " + name + ",please to meet you!")
+print("Did you know that your name backwards will look like " + name[::-1])
